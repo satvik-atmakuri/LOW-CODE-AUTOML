@@ -12,7 +12,7 @@ AutoGluon provides an easy and fast framework to create highly accurate machine 
 - **YouTube Tutorial**: [IEEE Fraud Detection - YouTube](https://youtu.be/rVN0MS3MW0U)
 
 ### b) California House Prediction
-- **Colab Notebook**: [California House Prediction - Colab](https://colab.research.google.com/drive/1SxWMGlvODV0MmjBu7qrpVp7hTNNIrfxL?authuser=4#scrollTo=kLomU1eo_Rya)
+- **Colab Notebook**: [California House Prediction - Colab](https://colab.research.google.com/drive/1SxWMGlvODV0MmjBu7qrpVp7hTNNIrfxL?usp=sharing)
 
 ---
 
@@ -20,11 +20,11 @@ AutoGluon provides an easy and fast framework to create highly accurate machine 
 
 ### 1. Tabular Classification/Regression with AutoGluon Tabular
 - **Overview**: Learn how to build tabular models for classification and regression tasks quickly and effectively using AutoGluon.
-- **Colab Notebook**: [AutoGluon Tabular - Quick Start, Multimodal, Multi-Label, Autogluon with GPU](https://colab.research.google.com/drive/1ji91abSkN-AuvLRgdltfdNjJyzM3AUa1?authuser=4#scrollTo=kiv2uAmKpJFc)
+- **Colab Notebook**: [AutoGluon Tabular - Quick Start, Multimodal, Multi-Label, Autogluon with GPU](https://colab.research.google.com/drive/1ji91abSkN-AuvLRgdltfdNjJyzM3AUa1?usp=sharing)
 
 ### 2. Automatic Feature Engineering with AutoGluon
 - **Overview**: Explore automatic feature engineering techniques to improve model performance with minimal effort.
-- **Colab Notebook**: [Automatic Feature Engineering with AutoGluon](https://colab.research.google.com/drive/1HM3hHJW6cXrwq4uEVqYeMMmUfw30_MuL?authuser=4)
+- **Colab Notebook**: [Automatic Feature Engineering with AutoGluon](https://colab.research.google.com/drive/1HM3hHJW6cXrwq4uEVqYeMMmUfw30_MuL?usp=sharing)
 
 ### 3. YouTube Tutorials
 - **Tabular Classification/Regression**: [AutoGluon Tabular Tutorial - YouTube](https://youtu.be/JHnRIN1IrKg)
