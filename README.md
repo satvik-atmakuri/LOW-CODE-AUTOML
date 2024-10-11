@@ -8,7 +8,7 @@ AutoGluon provides an easy and fast framework to create highly accurate machine 
 ## Competitions
 
 ### a) IEEE Fraud Detection
-- **Colab Notebook**: [IEEE Fraud Detection - Colab](https://colab.research.google.com/drive/1321cIbrm84IhS4GVEElW6tpbvI9U2Kd5?authuser=4#scrollTo=KmBEvwwBIDfT)
+- **Colab Notebook**: [IEEE Fraud Detection - Colab](https://colab.research.google.com/drive/1321cIbrm84IhS4GVEElW6tpbvI9U2Kd5?usp=sharing)
 - **YouTube Tutorial**: [IEEE Fraud Detection - YouTube](https://youtu.be/rVN0MS3MW0U)
 
 ### b) California House Prediction
